@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChristmasLEDs</string>
+    <string name="connect">Connect</string>
+    <string name="textview">TextView</string>
+    <string name="singe_colour">Singe Colour</string>
+    <string name="pallete_mode">Pallete Mode</string>
+    <string name="pick_colour">Pick Colour</string>
+    <string name="set_colour">Set colour</string>
+    <string name="colourwheel">ColourWheel</string>
+</resources>
