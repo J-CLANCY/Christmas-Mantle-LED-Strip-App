@@ -7,8 +7,6 @@ This repository contains the Android Studio project for a christmas mantle LED s
 ## Project Structure
 
 ```
-├── "".gradle"" => Contains gradle configuration for the app.
-├── "".idea"" => Contains IDE configuration for this project.  
 ├── ""app"" => Contains the source code for the app.
 ├── ""arduino"" => Contains the Arduino code for the Arduino Nano in this project.
 ├── ""gradle"" => Contains the gradle wrapper for the app.
